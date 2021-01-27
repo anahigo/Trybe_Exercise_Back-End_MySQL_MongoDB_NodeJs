@@ -14,26 +14,26 @@ This repository contains all the summaries, exercises and projects developeds by
 ##### Block 21: Relational Databases
 - [x] 21-1: *Most used functions in SQL*
 - [x] 21-2: *Uncomplicating JOINs and UNIONs*
-- [ ] 21-3: *Stored Routines & Subqueries*
-- [ ] 21-4: *Project - Vocabulary Booster*
+- [x] 21-3: *Stored Routines & Subqueries*
+- [x] 21-4: *Project - Vocabulary Booster*
 ##### Block 22: Relational Databases
-- [ ] 22-1: *Transforming ideas into a database model*
-- [ ] 22-2: *Normalization, Normal Forms and Dumps*
-- [ ] 22-3: *Transforming ideas into a database model - Part 2*
-- [ ] 22-4: *Project - One For All*
+- [x] 22-1: *Transforming ideas into a database model*
+- [x] 22-2: *Normalization, Normal Forms and Dumps*
+- [x] 22-3: *Transforming ideas into a database model - Part 2*
+- [x] 22-4: *Project - One For All*
 ##### Block 23: Introduction - NoSQL
-- [ ] 23-1: *MongoDB - Introduction*
-- [ ] 23-2: *Filter Operators*
-- [ ] 23-3: *Project - Data Flights*
+- [x] 23-1: *MongoDB - Introduction*
+- [x] 23-2: *Filter Operators*
+- [x] 23-3: *Project - Data Flights*
 ##### Block 24: Updates
-- [ ] 24-1: *Simple Updates*
-- [ ] 24-2: *Complex Updates - Arrays - Part 1*
-- [ ] 24-3: *Complex Updates - Arrays - Part 2*
-- [ ] 24-4: *Project - Commerce*
+- [x] 24-1: *Simple Updates*
+- [x] 24-2: *Complex Updates - Arrays - Part 1*
+- [x] 24-3: *Complex Updates - Arrays - Part 2*
+- [x] 24-4: *Project - Commerce*
 ##### Block 25: Aggregation Framework
-- [ ] 25-1: *Aggregation Framework - Part 1*
-- [ ] 25-2: *Aggregation Framework - Part 2*
-- [ ] 25-3: *Project - Aggregations*
+- [x] 25-1: *Aggregation Framework - Part 1*
+- [x] 25-2: *Aggregation Framework - Part 2*
+- [x] 25-3: *Project - Aggregations*
 ##### Block 26: Intro - NodeJS
 - [ ] 26-1: *NodeJS - Introduction*
 - [ ] 26-2: *NodeJS - Asynchronous Flow*
