@@ -1,9 +1,9 @@
-SELECT c.customer_id, c.first_name, a.actor_id
-FROM sakila.customer AS c
-LEFT JOIN sakila.actor AS a
-ON c.last_name = a.last_name;
+SELECT * FROM sakila.film;
+SELECT A.title, A.replacement_const, B_title, B_replacement_const
+FROM sakila.film AS A, sakila.film AS B
+WHERE  A.length = B.length;
 
-SELECT c.customer_id, c.first_name, a.actor_id
-FROM sakila.customer AS c
-RIGHT JOIN sakila.actor AS a
-ON c.last_name = a.last_name;
+SELECT * FROM sakila.address;
+SELECT A.address, A.district, B_address, b_district
+FROM sakila.address AS A, sakila.address AS B
+WHERE  A.district <> B.district;

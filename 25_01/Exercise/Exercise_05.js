@@ -1,0 +1,6 @@
+// # Exercício 05 : 
+// Agrupe os clientes por sexo . Retorne o total de clientes de cada sexo no campo total .
+
+db.clientes.aggregate([
+  { $group: { _id: "$sexo", total: { $sum: 1 } } }
+]).pretty();

@@ -87,8 +87,3 @@ Para fazer os exercícios da página abaixo, restaure o back-up do banco de dado
 Usando o banco de dados sakila , pratique o JOIN com os exercícios 6a a 6b deste link . As respostas podem ser conferidas neste link .
 (https://gist.github.com/Jhonatan-de-Souza/99a384d430402913df1d20de216ece5f)
 (https://gist.github.com/Jhonatan-de-Souza/b1f1e9257900b2db6bf09b61fe02e011)
-
-# Bônus
-# Exercício 9:
-Para uma lista completa de exercícios, do básico ao avançado, siga as instruções abaixo acessando este link . Siga os passos descritos nos exercícios 3, 4, 5 e 6 para criar e restaurar o banco de dados.
-(https://github.com/XD-DENG/SQL-exercise)
