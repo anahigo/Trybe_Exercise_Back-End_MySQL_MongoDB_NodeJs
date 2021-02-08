@@ -1,0 +1,16 @@
+{
+  "name": "math",
+  "version": "1.0.0",
+  "description": "Calculo fatorial",
+  "main": "factorial.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "factorial": "node factorial.js",
+    "fibonacci": "node fibonacci.js"
+  },
+  "author": "Ana Higo",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^7.3.3"
+  }
+}

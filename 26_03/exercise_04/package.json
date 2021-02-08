@@ -1,0 +1,19 @@
+{
+  "name": "exercise_04",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Ana Higo",
+  "license": "MIT",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "path": "^0.12.7",
+    "readline": "^1.3.0",
+    "readline-sync": "^1.4.10",
+    "util": "^0.12.3"
+  }
+}
